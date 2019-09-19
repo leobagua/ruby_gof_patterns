@@ -17,5 +17,5 @@ Cada radar é composto de um sensor de presença, uma câmera fotográfica e uma
 ### Padrões usados no Projeto:
 
 * [Adapter](observer.md): ajuda construir um sistema altamente integrado, sustentável e evita o acoplamento entre classes.
-* [Adapter](singleton.md): mantém uma única instância de uma certa classe em toda a aplicação.
-* [Adapter](strategy.md): alterna partes do algoritmo em tempo de execução.
+* [Singleton](singleton.md): mantém uma única instância de uma certa classe em toda a aplicação.
+* [Strategy](strategy.md): alterna partes do algoritmo em tempo de execução.
