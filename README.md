@@ -2,7 +2,7 @@
 
 Implementação dos padrões de Design GOF (Group of Four) em classes Ruby com a finalidade de simular um Radar Fixo de Trânsito.
 
-## Descrição:
+## Descrição (Fictícia):
 O governo do estado de Santa Catarina necessita a criação de um software para controle de radares de fiscalização de velocidade.
 A necessidade se dá pelo desenvolvimento de um software que se comunique com o hardware atualmente instalado nas rodovias do estado e processe os dados coletados pelo hardware.
 Cada radar é composto de um sensor de presença, uma câmera fotográfica e uma Central de Processamento.
